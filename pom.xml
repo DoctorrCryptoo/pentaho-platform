@@ -298,6 +298,8 @@
         <module>extensions</module>
         <module>tomcat-logs</module>
       </modules>
+
+        
     </profile>
     <profile>
       <id>platform-user-console</id>
